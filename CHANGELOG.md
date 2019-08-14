@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/LucasLeandroBR/semanticversion/compare/v0.1.4...v0.1.5) (2019-08-14)
+
+
+### Bug Fixes
+
+* **update dependencies:** dependencies ([3a0e66e](https://github.com/LucasLeandroBR/semanticversion/commit/3a0e66e)), closes [#2](https://github.com/LucasLeandroBR/semanticversion/issues/2)
+
 ### [0.1.4](https://github.com/LucasLeandroBR/semanticversion/compare/v0.1.3...v0.1.4) (2019-08-14)
 
 ### [0.1.3](https://github.com/LucasLeandroBR/semanticversion/compare/v0.1.2...v0.1.3) (2019-08-14)
